@@ -14,6 +14,9 @@ Exploratory data analysis for Titanic EDA, this is done to satisfy the requireme
 
 
 # References
-
+https://seaborn.pydata.org <br>
+https://pandas.pydata.org/docs/ 
+data Acquired from 
+https://www.kaggle.com/c/titanic
 
 
