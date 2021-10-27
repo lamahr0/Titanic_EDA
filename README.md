@@ -1,6 +1,7 @@
 # Titanic_EDA
 Exploratory data analysis for Titanic EDA, this is done to satisfy the requirements for the first project in the Udacity Data Scientist Nanodegree
 
+# Table of Contents
 # Motivation 
 
 
@@ -13,10 +14,10 @@ Exploratory data analysis for Titanic EDA, this is done to satisfy the requireme
 # Analysis Results 
 
 
-# References
-https://seaborn.pydata.org <br>
-https://pandas.pydata.org/docs/ <br>
-data Acquired from <br>
-https://www.kaggle.com/c/titanic
+# References & Acknowledgements
+[Seaborn Documentation](https://seaborn.pydata.org)<br>
+[Pandas Documentation](https://pandas.pydata.org/docs/) <br>
+the dataset was Acquired from kaggle, All information about the licensing can be found in the following [link](https://www.kaggle.com/c/titanic)<br>
+
 
 
