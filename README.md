@@ -13,6 +13,7 @@
 
 ## Installation 
 There are no libraries needed other than the one included in Anaconda distribution and the Python version used is version 3.
+The libraries used are Pandas and Numpy to manipulate the data and Seaborn for visualization. 
 
 ## Motivation 
 
