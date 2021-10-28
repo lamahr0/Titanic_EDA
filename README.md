@@ -60,7 +60,7 @@ the questions mentioned above.
 
 ## Analysis Results 
 
-The results of the exploratory data analysis can be found in the following post [here](url for the post) 
+The results of the exploratory data analysis can be found in the following post [here](https://medium.com/@lama.n.alharbi/surviving-the-iceberg-titanic-data-analysis-71be90c70c0e) 
 
 ## Acknowledgements
 [Seaborn Documentation](https://seaborn.pydata.org)<br>
