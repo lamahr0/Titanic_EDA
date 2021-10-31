@@ -1,5 +1,5 @@
 # Titanic_EDA
-<p>Exploratory data analysis for Titanic EDA, this is done to satisfy the requirements for the first project in the Udacity Data Scientist Nanodegree.</p>
+<p>Exploratory data analysis for Titanic, this is done to satisfy the requirements for the first project in the Udacity Data Scientist Nanodegree.</p>
 
 ### Table of Contents
 - [Installation](#installation)
